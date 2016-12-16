@@ -4,7 +4,7 @@ body {
     color: white;
     background: url("http://i.imgur.com/LBJBSzq.jpg");
     background-size: 1800px 1000px;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     padding-top: 40px;
 }
 }
